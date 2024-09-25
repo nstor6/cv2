@@ -165,7 +165,7 @@ sup {
 }
 
 a {
-    color: #3B7EEB;
+    color: #4100ff;
     text-decoration: none;
     background-color: transparent
 }
@@ -2651,7 +2651,7 @@ fieldset:disabled a.btn {
 
 .btn-primary {
     color: #fff;
-    background-color: #3B7EEB;
+    background-color: #062049;
     border-color: #3B7EEB
 }
 
@@ -11075,7 +11075,7 @@ h6 {
 }
 
 .meta {
-    color: #8f8f8f;
+    color: black;
     font-size: 0.8125rem
 }
 
@@ -11084,7 +11084,7 @@ h6 {
 }
 
 .meta span a {
-    color: #8f8f8f
+    color: black
 }
 
 .meta span a:hover {
@@ -11109,7 +11109,7 @@ h6 {
 }
 
 .blog-nav .nav-link {
-    background: #3B7EEB;
+    background: #062049;
     color: #fff;
     font-size: 1rem;
     padding: 1rem;
@@ -11175,17 +11175,17 @@ h6 {
 }
 
 .blog-post .image-caption {
-    color: #8f8f8f;
+    color: blaç;
     font-size: 0.875rem
 }
 
 .blog-post .image-caption a {
-    color: #8f8f8f;
+    color: blue;
     text-decoration: underline
 }
 
 .blog-post .image-caption a:hover {
-    color: #4f4f4f
+    color: black;
 }
 
 .blog-post .blockquote {
@@ -11418,4 +11418,10 @@ body {
 
 .config-panel .close .fa {
     color: #fff
+}
+.hljs-keyword{
+    color: #20c997;
+}
+.hljs-comment{
+    color: wheat;
 }
